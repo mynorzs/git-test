@@ -1,1 +1,2 @@
 Hello World!
+Second modifcation to test commit message in VS Code.
